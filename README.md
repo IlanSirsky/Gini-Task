@@ -10,15 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![image](https://github.com/IlanSirsky/Gini-Task/assets/74298243/afb58b60-0867-4b8a-ade5-3f2729ae7e5a)
 
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://github.com/IlanSirsky/Gini-Task/assets/74298243/e2b3edf3-b429-4cf8-ac52-b16701e66d85)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
